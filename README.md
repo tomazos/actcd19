@@ -4,7 +4,7 @@ See paper [http://www.tomazos.com/actcd16.pdf] for background.  Difference betwe
 
 Released Artifacts:
 
-- ACTCD19-2TOK.txt.gz
+- [ACTCD19-2TOK.txt.gz](https://github.com/tomazos/actcd19/raw/master/ACTCD19-2TOK.txt.gz) (23MB)
 
 A text file containing lines of the form:
 
@@ -17,4 +17,5 @@ We then identified, counted and ranked unique consecutive pairs of common tokens
 OCCURENCES is the number of occurences of each unique token pair.
 TOKEN1 is the first token of the pair
 TOKEN2 is the second token of the pair.
+
 
